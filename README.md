@@ -1,4 +1,4 @@
-# 🍀 &nbsp; &nbsp; &nbsp; &nbsp;     CYPHER &nbsp; &nbsp; TOOLS  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🍀
+# :rose: &nbsp; &nbsp; &nbsp; &nbsp;     CYPHER &nbsp; &nbsp; TOOLS  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :rose:
 
 <img src="https://i.imgur.com/iZmzKjF.png" width="60%"></img>
 
