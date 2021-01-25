@@ -37,8 +37,6 @@ This tool **include:**
 
 
 
-
-
 ## 📀 Installation 📀
 ### Installation with requirements.txt
 
@@ -57,15 +55,6 @@ python3 cryptot.py
 
 
 
-
-
-
-
-
-
-## Known Issues
-
---
 
 ## Bugs and enhancements
 
