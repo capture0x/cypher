@@ -1,4 +1,4 @@
-# :rose: &nbsp; &nbsp; &nbsp; &nbsp;     CYPHER &nbsp; &nbsp; TOOLS  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :rose:
+# :rose: &nbsp;    CYPHER   TOOLS  &nbsp; :rose:
 
 <img src="https://i.imgur.com/iZmzKjF.png" width="60%"></img>
 
