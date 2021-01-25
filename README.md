@@ -10,12 +10,12 @@ All in one tools for **CRYPTOLOGY**.
 Instagram: [Capture the Root](https://www.instagram.com/capturetheroot/)
 ## 🖼️ Screenshots 🖼️
 
-<img src="https://i.imgur.com/JzxQyl5.png" width="32%"></img>
-<img src="https://i.imgur.com/tuGGDks.png" width="33%"></img>
-<img src="https://i.imgur.com/XUtG9Bp.png" width="38%"></img>
-<img src="https://i.imgur.com/NwPQUGG.png" width="32%"></img>
-<img src="https://i.imgur.com/qSOekiG.png" width="45%"></img>
-<img src="https://i.imgur.com/poMEqf3.png" width="43%"></img>
+<img src="https://i.imgur.com/DMmfX5F.jpg" width="32%"></img>
+<img src="https://i.imgur.com/cgAC6Oj.jpg" width="32%"></img>
+<img src="https://i.imgur.com/7dWul5D.jpg" width="32%"></img>
+<img src="https://i.imgur.com/96YRKF5.jpg" width="32%"></img>
+<img src="https://i.imgur.com/inLFnLw.jpg" width="32%"></img>
+<img src="https://i.imgur.com/pmDqMDw.jpg" width="32%"></img>
 
 
 
