@@ -52,6 +52,16 @@ pip3 install -r requirements.txt
 python3 cryptot.py
 ```
 
+### HASH
+
+
+```Encryption and decryption algorithms ==> BASE64 MD5 SHA1 SHA384 SHA256 SHA512```
+
+
+### RSA
+```Encrypts strings by generating public and private keys```
+
+
 
 
 
