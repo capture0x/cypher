@@ -19,20 +19,20 @@ Instagram: [Capture the Root](https://www.instagram.com/capturetheroot/)
 
 ## 🧰  Features  🧰
 This tool **include:**
-:round_pushpin:  HASH               
-:round_pushpin:  RSA               
-:round_pushpin:  XOR               
-:round_pushpin:  AES (ECC)          
-:round_pushpin:  AES (CBC)          
-:round_pushpin:  DES (ECB)          
-:round_pushpin:  FERNET            
-:round_pushpin:  RC2                
-:round_pushpin:  RC4               
-:round_pushpin:  CHACHA20POLY1305
-:round_pushpin:  TRANSPOSITION
-:round_pushpin:  DIFFIE HELMAN
-:round_pushpin:  IMAGE ENCRYPT/DECRYPT
-:round_pushpin:  FILE ENCRYPT/DECRYPT
++ :round_pushpin:  HASH               
++ :round_pushpin:  RSA               
++ :round_pushpin:  XOR               
++ :round_pushpin:  AES (ECC)          
++ :round_pushpin:  AES (CBC)          
++ :round_pushpin:  DES (ECB)          
++ :round_pushpin:  FERNET            
++ :round_pushpin:  RC2                
++ :round_pushpin:  RC4               
++ :round_pushpin:  CHACHA20POLY1305
++ :round_pushpin:  TRANSPOSITION
++ :round_pushpin:  DIFFIE HELMAN
++ :round_pushpin:  IMAGE ENCRYPT/DECRYPT
++ :round_pushpin:  FILE ENCRYPT/DECRYPT
 
 
 
