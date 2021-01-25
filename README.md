@@ -19,7 +19,7 @@ Instagram: [Capture the Root](https://www.instagram.com/capturetheroot/)
 
 ## 🧰  Features  🧰
 This tool **include:**
-+  HASH               
+:round_pushpin:  HASH               
 +  RSA               
 +  XOR               
 +  AES (ECC)          
