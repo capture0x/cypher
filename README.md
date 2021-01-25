@@ -19,7 +19,21 @@ Instagram: [Capture the Root](https://www.instagram.com/capturetheroot/)
 
 ## 🧰  Features  🧰
 This tool **include:**
-+ HASH
++>  HASH               
++>  RSA               
++>  XOR               
++>  AES (ECC)          
++>  AES (CBC)          
++>  DES (ECB)          
++>  FERNET            
++>  RC2                
++>  RC4               
++>  CHACHA20POLY1305
++>  TRANSPOSITION
++>  DIFFIE HELMAN
++>  IMAGE ENCRYPT/DECRYPT
++>  FILE ENCRYPT/DECRYPT
+
 
 
 
