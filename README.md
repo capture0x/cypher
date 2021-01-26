@@ -62,8 +62,17 @@ python3 cryptot.py
 ```Encrypts strings by generating public and private keys```
 
 
+### IMAGE ENCRYPT/DECRYPT
+```Key and iv value must be 16 or 32 bytes, then specify the path of your image```
+
+```ex: key==> 1234567812345678 iv ==> 1234567812345678 path ==> /home/user/Desktop/a.jpg```
 
 
+### FILE ENCRYPT/DECRYPT
+
+```Encryption ==> Specify the path to the files you want to encrypt```
+
+```ex: /home/user/Desktop```
 
 
 ## Bugs and enhancements
