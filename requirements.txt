@@ -8,8 +8,7 @@ crypto==1.4.1
 cryptography==3.3.1
 idna==2.10
 lxml==4.6.2
-pip==21.0
-pkg-resources==0.0.0	
+pip==21.0	
 pycparser==2.20
 pycryptodome==3.9.9
 pyperclip==1.8.1
