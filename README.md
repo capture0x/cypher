@@ -1,4 +1,4 @@
-## :rose:     &nbsp;         CYPHER   TOOLS      &nbsp; :rose: 
+# :rose:     &nbsp;         CYPHER   TOOLS      &nbsp; :rose: 
 
 <img src="https://i.imgur.com/iZmzKjF.png" width="60%"></img>
 
@@ -25,7 +25,9 @@ Click on the image...
 
 ## 🧰  Features  🧰
 This tool **include:**
-+ :round_pushpin:  HASH       
++ :round_pushpin:  HASH
+BASE64 a
+
 + :round_pushpin:  RSA               
 + :round_pushpin:  XOR               
 + :round_pushpin:  AES (ECC)          
