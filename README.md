@@ -26,8 +26,6 @@ Click on the image...
 ## 🧰  Features  🧰
 This tool **include:**
 + :round_pushpin:  HASH
-BASE64 a
-
 + :round_pushpin:  RSA               
 + :round_pushpin:  XOR               
 + :round_pushpin:  AES (ECC)          
