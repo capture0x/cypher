@@ -9,7 +9,7 @@ def descb_func():
 
     try:
         print('ENCRYPTION')
-        text1 = input("ex:8 or 16 bytes\nSecret Message :")
+        text1 = input("NOTE:Secret message and key must be 8 or 16 bytes\nSecret Message :")
         key = input("Key :")
         des = DES.new(key.encode(), DES.MODE_ECB)
         padded_text = pad(text1.encode())
