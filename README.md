@@ -71,8 +71,18 @@ python3 cryptot.py
 ### IMAGE ENCRYPT/DECRYPT
 ```Key and iv value must be 16 or 32 bytes, then specify the path of your image```
 
-```ex: key==> 1234567812345678 iv ==> 1234567812345678 path ==> /home/user/Desktop/a.jpg```
-
+```ex: Enter Your Key :1234567812345678
+Enter Your IV :1234567812345678
+Enter Your Image Path :/home/tmrswrr/Desktop/butterfly.ico
+Encrypted : /home/tmrswrr/Desktop/butterfly.ico.wrr
+Img Encrypted...
+```
+```Enter Your Key :1234567812345678
+Enter Your IV :1234567812345678
+Enter Encrypt Image Path : /home/tmrswrr/Desktop/butterfly.ico.wrr
+Key and iv value must be 16 bytes...
+Img DEcrypted...
+```
 
 ### FILE ENCRYPT/DECRYPT
 
