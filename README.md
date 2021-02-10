@@ -85,7 +85,7 @@ python3 cryptot.py
 
 For bug reports or enhancements, please open an [issue](https://github.com/capture0x/cypher/issues) here.
 
+DONATE ETHEREUM ==> 0x555A9F02FE9Db7cE08408568aEd931473A203505
 
 **Copyright 2021**
-
 
