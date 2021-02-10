@@ -78,8 +78,14 @@ python3 cryptot.py
 
 ```Encryption ==> Specify the path to the files you want to encrypt```
 
-```ex: /home/user/Desktop```
-
+```ex:Your Key >> RVT5ITD2gCKpLQYSXn-GRUwfBoUWBx8GZEELdItyOTU=
+Enter files path :/home/tmrswrr/Music
+Files Encrypted...
+```
+```PLease enter your key :RVT5ITD2gCKpLQYSXn-GRUwfBoUWBx8GZEELdItyOTU=
+Enter files path :/home/tmrswrr/Music
+Files DEcrypted...
+```
 
 ## Bugs and enhancements
 
