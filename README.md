@@ -88,13 +88,23 @@ Img DEcrypted...
 
 ```Encryption ==> Specify the path to the files you want to encrypt```
 
-```ex:Your Key >> RVT5ITD2gCKpLQYSXn-GRUwfBoUWBx8GZEELdItyOTU=
+```ex:
+1. Encryption
+2. Decryption
+Choose(1,2): 1
+Your Key >> RVT5ITD2gCKpLQYSXn-GRUwfBoUWBx8GZEELdItyOTU=
 Enter files path :/home/tmrswrr/Music
 Files Encrypted...
+
 ```
-```PLease enter your key :RVT5ITD2gCKpLQYSXn-GRUwfBoUWBx8GZEELdItyOTU=
+```
+1. Encryption
+2. Decryption
+Choose(1,2): 2
+PLease enter your key :RVT5ITD2gCKpLQYSXn-GRUwfBoUWBx8GZEELdItyOTU=
 Enter files path :/home/tmrswrr/Music
 Files DEcrypted...
+
 ```
 
 ## Bugs and enhancements
