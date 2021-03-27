@@ -111,7 +111,6 @@ Files DEcrypted...
 
 For bug reports or enhancements, please open an [issue](https://github.com/capture0x/cypher/issues) here.
 
-DONATE BTC ==> 38Gru3iAH4i4Jx5oTt24Ju1ShTfnxFM2nN
 
 **Copyright 2021**
 
